@@ -29,7 +29,7 @@ public class JuegoServiceTest {
     void setUp() {
         juegos = new Juegos();
         juegos.setId(1L);
-        juegos.setNombre("Apexxx Legends");
+        juegos.setNombre("Apex Legends");
         juegos.setCategoria("Battle Royale");
         juegos.setEstudio("Electronic Arts");
     }
